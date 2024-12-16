@@ -14,5 +14,6 @@ Strutur dari project ini yaitu:
 
     ├── README.md <- Menampilkan latar belakang dan solusi yang diambil
     ├── data <- Data ini berisi data seen dan unseen dalam pembuatan dan pengujian model.
-    ├── Notebook <- berisi proses pembuatan machine learning .
+    ├── Notebook <-* ML.ipynb berisi proses pembuatan machine learning .
+    * app.py berisi aplikasi (user interface) untuk menggunakan machine learning
     └── requirements.txt <- The requirements file untuk memproduksi analysis environment, e.g. generated with `pipreqs > requirements.txt`
