@@ -32,7 +32,7 @@ class Cleaning(BaseEstimator, TransformerMixin):
     
 @st.cache_resource() 
 def get_model(): 
-    return joblib.load("FinalModel.pkl") 
+    return joblib.load("../Model/FinalModel.pkl") 
 
 @st.cache_data
 def convert_df(df):
@@ -57,9 +57,10 @@ def main():
         Engine_Type = st.selectbox('Engine Type:',('dohc', 'ohcv', 'ohc', 'l', 'rotor', 'ohcf', 'dohcv'))
         Symboling=st.number_input('Symboling: ',min_value=-2,max_value=3,step=1)
         horsepower=st.number_input('Horsepower:',min_value=48,max_value=288,step=1)
-        peakrpm=st.number_input('peak RPM:',min_value=4150,max_value=6600,step=1)
         citympg=st.number_input('cityMpg:',min_value=13,max_value=49,step=1)
         cylindernumber=st.number_input('Cylindr Number:',min_value=2,max_value=12,step=1)
+        BoreRatio=st.number_input('Bore Ratio:',min_value=2,max_value=4,step=1)
+        wheelBase=st.number_input('Wheel Base:',min_value=86,max_value=121,step=1)
 
         input_df=pd.DataFrame([
             {
@@ -72,9 +73,10 @@ def main():
                 'enginetype': Engine_Type, 
                 'symboling':Symboling,
                 'horsepower':horsepower,
-                'peakrpm':peakrpm,
+                'boreratio':BoreRatio,
                 'citympg': citympg,
-                'cylindernumber':cylindernumber
+                'cylindernumber':cylindernumber,
+                'wheelbase': wheelBase
             }
         ])
 
@@ -104,9 +106,10 @@ def main():
                 'enginetype', 
                 'symboling',
                 'horsepower',
-                'peakrpm',
+                'boreratio',
                 'citympg',
-                'cylindernumber'
+                'cylindernumber',
+                'wheelbase'
             ]]
 
             #Prediction

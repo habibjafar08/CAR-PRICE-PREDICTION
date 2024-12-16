@@ -46,3 +46,19 @@
 2024-12-10 14:27:47,895:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
 2024-12-10 14:27:48,448:INFO:Initializing load_model()
 2024-12-10 14:27:48,448:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-16 22:15:54,636:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:15:54,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:15:54,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:15:54,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:18:16,857:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:18:16,857:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:18:16,857:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-16 22:18:16,857:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
