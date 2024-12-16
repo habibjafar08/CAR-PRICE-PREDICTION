@@ -20,7 +20,6 @@ class Cleaning(BaseEstimator, TransformerMixin):
         
         # Penerapan Winsorization untuk mengatasi outliers
         X['horsepower'] = winsorize(X['horsepower'])
-        X['peakrpm'] = winsorize(X['peakrpm'])
         X['citympg'] = winsorize(X['citympg'])
         X['cylindernumber'] = winsorize(X['cylindernumber'])
 
