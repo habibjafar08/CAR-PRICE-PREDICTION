@@ -1,0 +1,48 @@
+2024-12-10 13:47:18,836:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 13:47:18,836:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 13:47:18,836:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 13:47:18,836:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 13:47:21,730:INFO:Initializing load_model()
+2024-12-10 13:47:21,730:INFO:load_model(model_name=FinalModel.pkl, platform=None, authentication=None, verbose=True)
+2024-12-10 13:47:58,132:INFO:Initializing load_model()
+2024-12-10 13:47:58,132:INFO:load_model(model_name=FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 13:48:39,251:INFO:Initializing load_model()
+2024-12-10 13:48:39,251:INFO:load_model(model_name=../Model/FinalModel.pkl, platform=None, authentication=None, verbose=True)
+2024-12-10 13:49:33,728:INFO:Initializing load_model()
+2024-12-10 13:49:33,728:INFO:load_model(model_name=FinalModel.pkl, platform=None, authentication=None, verbose=True)
+2024-12-10 13:50:35,953:INFO:Initializing load_model()
+2024-12-10 13:50:35,953:INFO:load_model(model_name=Model/FinalModel.pkl, platform=None, authentication=None, verbose=True)
+2024-12-10 13:50:52,103:INFO:Initializing load_model()
+2024-12-10 13:50:52,104:INFO:load_model(model_name=../Model/FinalModel.pkl, platform=None, authentication=None, verbose=True)
+2024-12-10 13:51:06,365:INFO:Initializing load_model()
+2024-12-10 13:51:06,365:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:06:19,284:INFO:Initializing load_model()
+2024-12-10 14:06:19,284:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:19:43,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 14:19:43,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 14:19:43,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 14:19:43,823:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-10 14:19:44,962:INFO:Initializing load_model()
+2024-12-10 14:19:44,962:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:23:30,451:INFO:Initializing load_model()
+2024-12-10 14:23:30,451:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:24:38,065:INFO:Initializing load_model()
+2024-12-10 14:24:38,066:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:27:42,741:INFO:Initializing load_model()
+2024-12-10 14:27:42,741:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:27:44,144:INFO:Initializing load_model()
+2024-12-10 14:27:44,144:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:27:45,158:INFO:Initializing load_model()
+2024-12-10 14:27:45,158:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:27:47,895:INFO:Initializing load_model()
+2024-12-10 14:27:47,895:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
+2024-12-10 14:27:48,448:INFO:Initializing load_model()
+2024-12-10 14:27:48,448:INFO:load_model(model_name=../Model/FinalModel, platform=None, authentication=None, verbose=True)
